@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sathyaprakash
-- 👀 I’m interested in JAVA , Quantum Computing , machine learning 
+- 👀 Quantum Computing
 - 🌱 I’m Quantum Computing 
 - 💞️ I’m looking to collaborate on learning the above topics
 - 📫 Sathyapt02@gmail.com ...
